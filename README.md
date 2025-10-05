@@ -48,7 +48,7 @@ A one-stop digital hub for discovering and managing college events.
 ## 🌍 Deployment
 
 This portfolio is live at:  
-👉 **[https://priyantnikhare.github.io](https://priyantnikhare.github.io)**
+👉 **[https://priyantnikhare.github.io/my-portfolio-website/index.html](https://priyantnikhare.github.io/my-portfolio-website/index.html)**
 
 Built using **HTML**, **CSS**, and **JavaScript**, designed to highlight my work in a clean and interactive way.
 
